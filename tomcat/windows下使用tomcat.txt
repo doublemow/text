@@ -1,0 +1,2 @@
+1、将war 包放到webapps 文件夹下
+2、进入tomcat/bin下执行start.bat
